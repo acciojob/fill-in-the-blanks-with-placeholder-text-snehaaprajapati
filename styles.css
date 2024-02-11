@@ -1,5 +1,9 @@
 
 /* Your CSS Code here. */
-h1{
-	font-family:Poppins;
+h1,h3{
+	font-family:poppins;
+}
+
+#tp{
+	font-family:sans-serif;
 }
